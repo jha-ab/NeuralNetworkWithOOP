@@ -17,3 +17,7 @@ Task 2: Create a Multi-Layer Perceptron Object, trained and optimized the algori
 
 Week V - Week VIII
 
+
+
+Task 1: Use NNs to classify wine dataset. Used 4 different approaches for the same, first is a multi-layer perceptron without normalization, second uses linear normalization, third uses z-score normalization and finally used one hot encoding with categorical cross entropy loss function with adam optimizer.
+
